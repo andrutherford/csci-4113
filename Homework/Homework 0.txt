@@ -1,0 +1,5 @@
+Andrew Rutherford
+CSCI 4113	
+Homework 0
+
+My background in Unix/Linux is primarily limited to Linux with Virtual Box as required by previous CSCI courses.  My interest in Unix/Linux, and one of the main reasons I am taking this course is due to the ubiquity of Unix/Linux in industry today.

@@ -1,0 +1,1 @@
+Why do IP addresses have the format XXX.XXX.X.X?  Why are there always only four fields?
